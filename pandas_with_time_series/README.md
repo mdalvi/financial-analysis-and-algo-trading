@@ -1,2 +1,2 @@
 ## View notes using nbviewer
-*[Pandas with timeseries notes](http://nbviewer.jupyter.org/github/mdalvi/financial-analysis-and-algo-trading/blob/master/pandas_with_time_series/pandas_with_time_series_notes.ipynb)
+* [Pandas with timeseries notes](http://nbviewer.jupyter.org/github/mdalvi/financial-analysis-and-algo-trading/blob/master/pandas_with_time_series/pandas_with_time_series_notes.ipynb)
