@@ -1,0 +1,2 @@
+## View notes using nbviewer
+* [Python finance fundamentals notes](http://nbviewer.jupyter.org/github/mdalvi/financial-analysis-and-algo-trading/blob/master/python_finance_fundamentals/finance_fundamentals_lecture_notes.ipynb)
